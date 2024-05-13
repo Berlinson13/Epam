@@ -4,20 +4,4 @@ NEw Update
 NEw Update2
 NEw upgrade
 NEw upgrade@@
-<<<<<<< HEAD
-NEw upgrade@@22
- Git revert
 
-
-
-Made new branch
-Made a second commit in a new branch features
-
-
-Create a linefeatures
-Create a second line in linefeatures
-
-
-=======
-NEw upgrade@@22
->>>>>>> parent of 5df776e (revote)
