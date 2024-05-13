@@ -8,10 +8,9 @@ NEw upgrade@@22
  Git revert
 
 
-<<<<<<< HEAD
+
 Made new branch
 Made a second commit in a new branch features
-=======
 
-Add stupid
->>>>>>> parent of 5eadcc4 (Revert "add stupid")
+
+
